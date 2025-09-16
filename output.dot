@@ -1,0 +1,9 @@
+digraph G {
+node [shape=plaintext];
+CustomerTable [label=<
+<TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+<TR><TH>Tenure (months)</TH><TH>Contract Type</TH><TH>Monthly Charges</TH><TH>Prediction</TH></TR>
+<TR><TD>8</TD><TD>Month-to-Month</TD><TD>$85.0</TD><TD>Likely to Leave</TD></TR>
+</TABLE>
+>];
+}
